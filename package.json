@@ -20,7 +20,7 @@
     "bootstrap": "^3.4.1",
     "director": "^1.2.6",
     "gulp-concat": "^2.6.1",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jquery-ui": "github:components/jqueryui#1.11.4",
     "jrails": "0.0.1",
     "lodash": "^4.17.15",
